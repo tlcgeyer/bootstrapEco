@@ -6,3 +6,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*NAV BAR========================================*/
+img[alt="logo"] {
+    width: 5rem;
+}
