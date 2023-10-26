@@ -10,3 +10,25 @@
 img[alt="logo"] {
     width: 5rem;
 }
+body{
+    text-align: center;
+    background: scroll url(https://i.postimg.cc/Bn36CDZn/Register-Login.jpg);
+    background-size: cover ;
+}
+.row1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 60%;
+}
+.row4{
+    text-align: justify;
+}
+.row6{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 60%;
+}
